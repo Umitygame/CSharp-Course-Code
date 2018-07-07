@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 0004 data types var", "Lesson 0004 data types var\Lesson 0004 data types var.csproj", "{CAE34FA3-48F0-4EFC-9CBC-3BB66A1D58ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE34FA3-48F0-4EFC-9CBC-3BB66A1D58ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE34FA3-48F0-4EFC-9CBC-3BB66A1D58ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE34FA3-48F0-4EFC-9CBC-3BB66A1D58ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE34FA3-48F0-4EFC-9CBC-3BB66A1D58ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D012E28E-CCDB-421D-8BEF-DBBA76E0EF10}
+	EndGlobalSection
+EndGlobal
