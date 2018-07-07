@@ -10,7 +10,9 @@ namespace Lesson_0005_range_and_size_var
     {
         static void Main(string[] args)
         {
-            //bit<byte
+           //bit<byte كل 8 بت يساوي 1بايت ولتحويل الالبايت ال بت تضرب 8 في عدد البايت
+            //مثال 8*1= 8بت تم تحويل بايت واحد الى بت
+            //مثال 8*2=16 بت تم تحويل اثنين بايت الى بت وهكذا
             Console.WriteLine("byte\nsize = 8 bit\ndigits=3");
             Console.WriteLine(byte.MinValue);
             Console.WriteLine(byte.MaxValue);
