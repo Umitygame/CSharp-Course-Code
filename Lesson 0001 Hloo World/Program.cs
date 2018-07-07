@@ -10,6 +10,8 @@ namespace Lesson_0001_Hloo_World
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hloo_World");
+            Console.ReadKey();
         }
     }
 }
