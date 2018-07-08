@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 0011 Convert Varaibles", "Lesson 0011 Convert Varaibles\Lesson 0011 Convert Varaibles.csproj", "{A5C8C86D-E7A4-485C-AC6F-B0E9DD5C0947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C8C86D-E7A4-485C-AC6F-B0E9DD5C0947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C8C86D-E7A4-485C-AC6F-B0E9DD5C0947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C8C86D-E7A4-485C-AC6F-B0E9DD5C0947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C8C86D-E7A4-485C-AC6F-B0E9DD5C0947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA4F863-6869-4520-8D50-C6FC91EA8A15}
+	EndGlobalSection
+EndGlobal
