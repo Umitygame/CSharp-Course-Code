@@ -48,6 +48,28 @@ namespace Lesson_0008_mathematics_var
             x = 4 + x++;//لا تزيد واحد لانها اقل اسبقيه حتى x++
             //اقل اسبقيه من اليساوي وياتي التنفيذ بعد تنفيذ اليساوي
             Console.WriteLine("x="+x);
+
+            
+
+
+
+            int p = 9;
+            int c = 8;
+            bool b1 = p >= c;
+            bool b2 = p > c;
+            bool b3 = p == c;
+            bool b4 = p <= c;
+            bool b5= p < c;
+            bool b6 = p != c;
+
+
+            Console.WriteLine("(b1="+ b1
+                +" )(b2= " + b2
+                + ")( b3= " + b3
+                + ")( b4= " + b4
+                + ")( b5= " + b5
+                + ")( b6= " + b6+")");
+
             Console.ReadKey();
 
 
