@@ -31,9 +31,25 @@ namespace Lesson_0008_mathematics_var
             string type = "ali";
             type += " ";
             type += "mohamed" + " " + "omr";
+            // type -= " ";خطا لا يجوز فقط الجمع يرهم مع النصوص انه حالة دمج
             Console.WriteLine(type);
+
+
+
+
+
+            Double x = 5;
+            ++x;
+            x++;
+            --x;
+            x--;
+            x = x + 2;
+            x = x - 3;
+            x = 4 + x++;//لا تزيد واحد لانها اقل اسبقيه حتى x++
+            //اقل اسبقيه من اليساوي وياتي التنفيذ بعد تنفيذ اليساوي
+            Console.WriteLine("x="+x);
             Console.ReadKey();
-            // type -= " ";خطا لا يجوز فقط الجمع يرهم مع النصوص
+
 
         }
     }
