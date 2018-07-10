@@ -24,11 +24,11 @@ namespace Lesson_0010_parse_int_and_string
 
 
             //تحويل الارقام الى نصوص
-            double x = 15500;
+            double x=999; ;
             string y;
             // y = Convert.ToString(x);
-            // y = x.ToString();//تحويل الرقم الى نص ثاني طريقه
-            y = x + "";//دمج// تحويل الرقم الى نص ثالث طريقه
+            y= x.ToString();//تحويل الرقم الى نص ثاني طريقه
+           // y = x + "";//دمج// تحويل الرقم الى نص ثالث طريقه
             Console.WriteLine("car=" + y + "$");//هكذا تدمج النصوص مع الارقام عند الطباعه
             Console.ReadKey();
 
