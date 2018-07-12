@@ -24,7 +24,7 @@ namespace Lesson_0010_parse_int_and_string
 
 
             //تحويل الارقام الى نصوص
-            double x=999; ;
+            double x=1500; ;
             string y;
             // y = Convert.ToString(x);
             y= x.ToString();//تحويل الرقم الى نص ثاني طريقه
