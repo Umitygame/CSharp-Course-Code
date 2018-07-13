@@ -40,7 +40,7 @@ namespace Lesson_0011_Convert_Varaibles
             x = c;//هذه الحاله يقبل بها لكن العكس لا يجوز
             int ba = 89;
             char s;
-            s =(char) ba;//لا يقبل يجب التحويل
+            s =(char) ba;// لا يقبل يجب التحويل
 
             Console.WriteLine(" x= "+x+" s= "+s+" a= "+(char)55+" t="+(int)'t');// الاكسي كودunicode
             Console.ReadKey();
