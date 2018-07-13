@@ -9,6 +9,7 @@ namespace Lesson_0011_Convert_Varaibles
     class Program
     {
         static void Main(string[] args)
+            //تحوييل متغرات رقمية من غير نوع
         {//(int ,double,char,long) يمكن تحويل المتغيرات  
             //(string,int or double or long or char) لكن لا يمكن تحويل بين 
             char a='h';
@@ -22,7 +23,7 @@ namespace Lesson_0011_Convert_Varaibles
 
 
 
-            object name1 = "omr";
+            object name1 = "omr";//تحويل متغيرين نصيين من غير نوع
             string name2;
                name2 =(string) name1;
             Console.WriteLine("name="+name2);
@@ -33,6 +34,7 @@ namespace Lesson_0011_Convert_Varaibles
 
 
             // unicode (int; char; .....)الاكسي كود
+            //تحويل متغير نصي الى متغير رقمي او بالعكس واعطاء الاكسي كود
             char c = 'p';
             int x;
             x = c;//هذه الحاله يقبل بها لكن العكس لا يجوز
