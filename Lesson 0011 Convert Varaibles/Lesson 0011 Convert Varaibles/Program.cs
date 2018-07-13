@@ -17,7 +17,7 @@ namespace Lesson_0011_Convert_Varaibles
             // b = Convert.Toint(a);  Toint لا يجوز كتابه الانتجر بالحرف الصغير
             b = (int)a;// intالى doubleتم تحويل متغير من نوع 
             //doubleوليسintكانما نقول هذا المتغير من نوع 
-            Console.WriteLine(b);
+            Console.WriteLine("b="+b);
           //  Console.ReadKey();
 
 
@@ -25,7 +25,7 @@ namespace Lesson_0011_Convert_Varaibles
             object name1 = "omr";
             string name2;
                name2 =(string) name1;
-            Console.WriteLine(name2);
+            Console.WriteLine("name="+name2);
          //   Console.ReadKey();
 
 
@@ -40,7 +40,7 @@ namespace Lesson_0011_Convert_Varaibles
             char s;
             s =(char) ba;//لا يقبل يجب التحويل
 
-            Console.WriteLine(s+" "+(char)55+" "+(int)'t');// الاكسي كودunicode
+            Console.WriteLine(" x= "+x+" s= "+s+" a= "+(char)55+" t="+(int)'t');// الاكسي كودunicode
             Console.ReadKey();
             // (" ") عند الطباعه يجب ان تضع مسافه حتى لا يظهر خطا مثل
         }
