@@ -9,8 +9,9 @@ namespace Lesson_0011_Convert_Varaibles
     class Program
     {
         static void Main(string[] args)
-        {
-            double a=91.9;
+        {//(int ,double,char,long) يمكن تحويل المتغيرات  
+            //(string,int or double or long or char) لكن لا يمكن تحويل بين 
+            char a='h';
             int b ;
            //  b = Convert.ToInt32(a);// intالى doubleتم تحويل متغير من نوع 
             // b = Convert.Toint(a);  Toint لا يجوز كتابه الانتجر بالحرف الصغير
